@@ -1,0 +1,4 @@
+Write a function that can censor a specific word or phrase from a body of text, and then return the text.
+
+Mr. Cloudy has asked you to use the function to censor all instances of the phrase 'learning algorithms' from the first
+email, 'email_one'. Mr. Cloudy doesn’t care how you censor it, he just wants it done.
