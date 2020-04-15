@@ -1,4 +1,11 @@
 Write a function that can censor a specific word or phrase from a body of text, and then return the text.
 
+Function for email_one:
 Mr. Cloudy has asked you to use the function to censor all instances of the phrase 'learning algorithms' from the first
 email, 'email_one'. Mr. Cloudy doesn’t care how you censor it, he just wants it done.
+
+Function for email_two:
+Write a function that can censor not just a specific word or phrase from a body of text, but a whole list of words and phrases, and then return the text.
+
+Mr. Cloudy has asked that you censor all words and phrases from the following list in email_two.
+proprietary_terms = ["she", "personality matrix", "sense of self", "self-preservation", "learning algorithm", "her", "herself"]
